@@ -2,7 +2,7 @@ import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.filechooser.FileSystemView;
 
-public class FileChooser {
+public class FileChooserFilter {
 
     public static void main(String[] args) {
 
