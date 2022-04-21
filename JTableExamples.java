@@ -20,12 +20,12 @@ public class JTableExamples {
 
 		// Data to be displayed in the JTable
 		String[][] data = {
-			{ "Kundan Kumar Jha", "4031", "CSE" },
-			{ "Anand Jha", "6014", "IT" }
+			{ "Giovanni Mela", "1", "CEO" },
+			{ "Mario Rossi", "2", "IT" }
 		};
 
 		// Column Names
-		String[] columnNames = { "Name", "Roll Number", "Department" };
+		String[] columnNames = { "Name", "ID", "Department" };
 
 		// Initializing the JTable
 		j = new JTable(data, columnNames);
